@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/stat_arb/META"
+  "_build/install/default/lib/stat_arb/dune-package"
+  "_build/install/default/lib/stat_arb/opam"
+]
+bin: [
+  "_build/install/default/bin/stat_arb"
+]

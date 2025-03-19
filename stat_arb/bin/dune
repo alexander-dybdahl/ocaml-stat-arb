@@ -1,0 +1,4 @@
+(executable
+ (public_name stat_arb)
+ (name main)
+ (libraries csv stat_arb))
